@@ -73,17 +73,6 @@ Nothing particular, it's a static webpage.
 Nothing particular, it's a static webpage.
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Scan the below QR code to access the experience webpage
-2. When the webpage appears, allow the use of your camera.
-3. Point your camera to the QR code again, a 3D version of myself should appear with someone talking to you at the other side.
-
-_Note: the buttons should lead you to my social network accounts._
-
-![qr code](https://github.com/yannklein/iamyann/blob/master/marker/marker_yann.png?raw=true)
-
 
 <!-- ROADMAP -->
 ## Roadmap
